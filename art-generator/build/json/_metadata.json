@@ -1,8 +1,8 @@
 [
   {
-    "name": "Your Collection #1",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/1.png",
+    "name": "Purple Eye #1",
+    "description": "Staring Eye",
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/1.png",
     "dna": "17b1b5f0118ee8c02a4f6eee1f5ee03fffbe0e28",
     "edition": 1,
     "date": 1661502591493,
@@ -39,9 +39,9 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #2",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/2.png",
+    "name": "Purple Eye #2",
+    "description": "Staring Eye",
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/2.png",
     "dna": "75e313cf2f54b7abcff09a7cab8c557510ab0c80",
     "edition": 2,
     "date": 1661502591638,
@@ -78,9 +78,9 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #3",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/3.png",
+    "name": "Purple Eye #3",
+    "description": "Staring Eye",
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/3.png",
     "dna": "dc5a0fac249210c035a6dccd4097fe8514a02d91",
     "edition": 3,
     "date": 1661502591772,
@@ -117,9 +117,9 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #4",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/4.png",
+    "name": "Purple Eye #4",
+    "description": "Staring Eye",
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/4.png",
     "dna": "6df034b693ab91ac7aff321dbf6338550c582d7a",
     "edition": 4,
     "date": 1661502591911,
@@ -156,9 +156,9 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #5",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/5.png",
+    "name": "Purple Eye #5",
+    "description": "Staring Eye",
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/5.png",
     "dna": "a85bae4a3be104d33b46d3e4ce012b3157ae3628",
     "edition": 5,
     "date": 1661502592074,
@@ -195,9 +195,9 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #6",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/6.png",
+    "name": "Purple Eye #6",
+    "description": "Staring Eye",
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/6.png",
     "dna": "92d6f5150aead5820b188bc56464b5e1961b160b",
     "edition": 6,
     "date": 1661502592229,
@@ -234,9 +234,9 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #7",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/7.png",
+    "name": "Purple Eye #7",
+    "description": "Staring Eye",
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/7.png",
     "dna": "7c1dd1dbd3671217f387cc2df3c2aa6c6118b16d",
     "edition": 7,
     "date": 1661502592397,
@@ -273,9 +273,9 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #8",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/8.png",
+    "name": "Purple Eye #8",
+    "description": "Staring Eye",
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/8.png",
     "dna": "c100cb4bb0b08a900640ce891811d76f2625e75d",
     "edition": 8,
     "date": 1661502592547,
@@ -312,9 +312,9 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #9",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/9.png",
+    "name": "Purple Eye #9",
+    "description": "Staring Eye",
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/9.png",
     "dna": "594219bfa83c650c4811a0db3ad0c2ec03f5bdf2",
     "edition": 9,
     "date": 1661502592709,
@@ -351,9 +351,9 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #10",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/10.png",
+    "name": "Purple Eye #10",
+    "description": "Staring Eye",
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/10.png",
     "dna": "d3b85aab84a8810e2d0caf38dd1cdfc5e3ea11d8",
     "edition": 10,
     "date": 1661502592867,
@@ -390,9 +390,9 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #11",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/11.png",
+    "name": "Purple Eye #11",
+    "description": "Staring Eye",
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/11.png",
     "dna": "2214750725e427806ee97a1510f514475056fce7",
     "edition": 11,
     "date": 1661502593083,
@@ -429,9 +429,9 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #12",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/12.png",
+    "name": "Purple Eye #12",
+    "description": "Staring Eye",
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/12.png",
     "dna": "a0c714533e4f9cc12c343effc544b411af20973b",
     "edition": 12,
     "date": 1661502593260,
@@ -468,9 +468,9 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #13",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/13.png",
+    "name": "Purple Eye #13",
+    "description": "Staring Eye",
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/13.png",
     "dna": "1a2a6750df509c6d6158a027238c05ef78f71875",
     "edition": 13,
     "date": 1661502593427,
@@ -507,9 +507,9 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #14",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/14.png",
+    "name": "Purple Eye #14",
+    "description": "Staring Eye",
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/14.png",
     "dna": "8aac49dd74e03342d462bd9052cd5be1aeedc6a9",
     "edition": 14,
     "date": 1661502593582,
@@ -546,9 +546,9 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #15",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/15.png",
+    "name": "Purple Eye #15",
+    "description": "Staring Eye",
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/15.png",
     "dna": "ecd640d97620e4f94f4c0c577bcfe9bf649c98fe",
     "edition": 15,
     "date": 1661502593756,
@@ -585,9 +585,9 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #16",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/16.png",
+    "name": "Purple Eye #16",
+    "description": "Staring Eye",
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/16.png",
     "dna": "1e7cf568fe568edc2238426a8a67cf0e7c343017",
     "edition": 16,
     "date": 1661502593929,
@@ -624,9 +624,9 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #17",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/17.png",
+    "name": "Purple Eye #17",
+    "description": "Staring Eye",
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/17.png",
     "dna": "01f773ac1b5a67929370a6ff1ed5cef02cf13625",
     "edition": 17,
     "date": 1661502594088,
@@ -663,9 +663,9 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #18",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/18.png",
+    "name": "Purple Eye #18",
+    "description": "Staring Eye",
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/18.png",
     "dna": "8959fc80f682f39e5d178c7c7c7acc968b9d33a3",
     "edition": 18,
     "date": 1661502594294,
@@ -702,9 +702,9 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #19",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/19.png",
+    "name": "Purple Eye #19",
+    "description": "Staring Eye",
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/19.png",
     "dna": "1dc0cdb3578a08d20d595d55c667c2f385d504f7",
     "edition": 19,
     "date": 1661502594442,
@@ -741,9 +741,9 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #20",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/20.png",
+    "name": "Purple Eye #20",
+    "description": "Staring Eye",
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/20.png",
     "dna": "41b505f4318b7f469c47f1abbba0431f7d0abc50",
     "edition": 20,
     "date": 1661502594597,
