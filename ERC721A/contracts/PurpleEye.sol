@@ -9,7 +9,7 @@ contract PurpleEye is ERC721A, Ownable {
     uint256 MAX_SUPPLY = 20;
     uint256 public mintRate = 0.005 ether;
 
-    string public baseURI = "ipfs://QmWEy38kRLXws19SYfudDiJQNzpJx3e1q9ZsdG7UFchvBS/";
+    string public baseURI = "ipfs://QmU18DWytyJi2RxgvouJrnAE77idxT6gjUqdzBRYPLtcrp/";
 
     constructor() ERC721A("Purple Eye", "Eye") {}
 
