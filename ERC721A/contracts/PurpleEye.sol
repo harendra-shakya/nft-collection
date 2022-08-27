@@ -5,11 +5,11 @@ import "erc721a/contracts/ERC721A.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
 contract PurpleEye is ERC721A, Ownable {
-    uint256 MAX_MINTS = 20;
-    uint256 MAX_SUPPLY = 20;
+    uint256 MAX_MINTS = 21;
+    uint256 MAX_SUPPLY = 21;
     uint256 public mintRate = 0.005 ether;
 
-    string public baseURI = "ipfs://QmU18DWytyJi2RxgvouJrnAE77idxT6gjUqdzBRYPLtcrp/";
+    string public baseURI = "ipfs://QmU9CTai3kCtfdNMu4y5NNeJ6fCa55cdGFT1WDqo2esUU3/";
 
     constructor() ERC721A("Purple Eye", "Eye") {}
 

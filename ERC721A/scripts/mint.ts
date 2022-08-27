@@ -5,7 +5,7 @@ const BLOCKS = 2;
 async function mint() {
     console.log("minting....");
     const erc721a = await ethers.getContract("PurpleEye")
-    const tx = await erc721a.mint(1, {value: ethers.utils.parseEther("0.1")});
+    const tx = await erc721a.mint(15, {value: ethers.utils.parseEther("0.1")});
     const txReceipt = await tx.wait();
     console.log("minted");
 }
