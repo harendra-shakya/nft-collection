@@ -6,8 +6,8 @@ const network = NETWORK.eth;
 
 // General metadata for Ethereum
 const namePrefix = "Purple Eye";
-const description = "Staring Eye";
-const baseUri = "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN";
+const description = "Purple Staring Eye";
+const baseUri = "ipfs://QmWsuEJ9pCjvwK4rTRKaSLQRDevSC9j6oS253BivPa9GkK";
 
 const solanaMetadata = {
   symbol: "YC",
