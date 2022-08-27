@@ -2,9 +2,9 @@
   "name": "Purple Eye #5",
   "description": "Staring Eye",
   "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/5.png",
-  "dna": "a85bae4a3be104d33b46d3e4ce012b3157ae3628",
+  "dna": "82c5ae136de47a627f25569d5d128f1de076a85b",
   "edition": 5,
-  "date": 1661502592074,
+  "date": 1661594991597,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Eyeball",
-      "value": "Red"
+      "value": "White"
     },
     {
       "trait_type": "Eye color",
@@ -20,7 +20,7 @@
     },
     {
       "trait_type": "Iris",
-      "value": "Medium"
+      "value": "Small"
     },
     {
       "trait_type": "Shine",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Bottom lid",
-      "value": "High"
+      "value": "Middle"
     },
     {
       "trait_type": "Top lid",
-      "value": "Middle"
+      "value": "Low"
     }
   ],
   "compiler": "HashLips Art Engine"

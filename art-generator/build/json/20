@@ -2,9 +2,9 @@
   "name": "Purple Eye #20",
   "description": "Staring Eye",
   "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/20.png",
-  "dna": "41b505f4318b7f469c47f1abbba0431f7d0abc50",
+  "dna": "a85bae4a3be104d33b46d3e4ce012b3157ae3628",
   "edition": 20,
-  "date": 1661502594597,
+  "date": 1661594993668,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,15 +12,15 @@
     },
     {
       "trait_type": "Eyeball",
-      "value": "White"
+      "value": "Red"
     },
     {
       "trait_type": "Eye color",
-      "value": "Pink"
+      "value": "Yellow"
     },
     {
       "trait_type": "Iris",
-      "value": "Small"
+      "value": "Medium"
     },
     {
       "trait_type": "Shine",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Bottom lid",
-      "value": "Middle"
+      "value": "High"
     },
     {
       "trait_type": "Top lid",

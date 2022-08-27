@@ -315,7 +315,7 @@ const saveMetaDataSingleFile = (_editionCount) => {
       )
     : null;
   fs.writeFileSync(
-    `${buildDir}/json/${_editionCount}.json`,
+    `${buildDir}/json/${_editionCount}`,
     JSON.stringify(metadata, null, 2)
   );
 };
@@ -336,11 +336,11 @@ function shuffle(array) {
 
 const startCreating = async () => {
   let layerConfigIndex = 0;
-  let editionCount = 1;
+  let editionCount = 0;
   let failedCount = 0;
   let abstractedIndexes = [];
   for (
-    let i = network == NETWORK.sol ? 0 : 1;
+    let i = 0;
     i <= layerConfigurations[layerConfigurations.length - 1].growEditionSizeTo;
     i++
   ) {

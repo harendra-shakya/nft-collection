@@ -2,9 +2,9 @@
   "name": "Purple Eye #13",
   "description": "Staring Eye",
   "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/13.png",
-  "dna": "1a2a6750df509c6d6158a027238c05ef78f71875",
+  "dna": "f7f1ba88e7df634870bca2075870af89ff464aae",
   "edition": 13,
-  "date": 1661502593427,
+  "date": 1661594992700,
   "attributes": [
     {
       "trait_type": "Background",
@@ -16,7 +16,7 @@
     },
     {
       "trait_type": "Eye color",
-      "value": "Purple"
+      "value": "Cyan"
     },
     {
       "trait_type": "Iris",

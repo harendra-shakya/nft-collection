@@ -2,9 +2,9 @@
   "name": "Purple Eye #7",
   "description": "Staring Eye",
   "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/7.png",
-  "dna": "7c1dd1dbd3671217f387cc2df3c2aa6c6118b16d",
+  "dna": "ecb8775d308a1bc41e0f17fa348ab914a4a6c613",
   "edition": 7,
-  "date": 1661502592397,
+  "date": 1661594991874,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Eyeball",
-      "value": "Red"
+      "value": "White"
     },
     {
       "trait_type": "Eye color",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Bottom lid",
-      "value": "Low"
+      "value": "Middle"
     },
     {
       "trait_type": "Top lid",
-      "value": "Middle"
+      "value": "Low"
     }
   ],
   "compiler": "HashLips Art Engine"

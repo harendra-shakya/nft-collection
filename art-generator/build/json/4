@@ -2,9 +2,9 @@
   "name": "Purple Eye #4",
   "description": "Staring Eye",
   "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/4.png",
-  "dna": "6df034b693ab91ac7aff321dbf6338550c582d7a",
+  "dna": "13ef1922f0203036a03e81377eabb7ffa2ec6d7a",
   "edition": 4,
-  "date": 1661502591911,
+  "date": 1661594991463,
   "attributes": [
     {
       "trait_type": "Background",
@@ -16,7 +16,7 @@
     },
     {
       "trait_type": "Eye color",
-      "value": "Yellow"
+      "value": "Red"
     },
     {
       "trait_type": "Iris",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Bottom lid",
-      "value": "Low"
+      "value": "Middle"
     },
     {
       "trait_type": "Top lid",
-      "value": "Low"
+      "value": "Middle"
     }
   ],
   "compiler": "HashLips Art Engine"

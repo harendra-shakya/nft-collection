@@ -1,11 +1,11 @@
 [
   {
-    "name": "Purple Eye #1",
+    "name": "Purple Eye #0",
     "description": "Staring Eye",
-    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/1.png",
-    "dna": "17b1b5f0118ee8c02a4f6eee1f5ee03fffbe0e28",
-    "edition": 1,
-    "date": 1661502591493,
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/0.png",
+    "dna": "d3b85aab84a8810e2d0caf38dd1cdfc5e3ea11d8",
+    "edition": 0,
+    "date": 1661594990956,
     "attributes": [
       {
         "trait_type": "Background",
@@ -17,7 +17,7 @@
       },
       {
         "trait_type": "Eye color",
-        "value": "Red"
+        "value": "Yellow"
       },
       {
         "trait_type": "Iris",
@@ -29,22 +29,22 @@
       },
       {
         "trait_type": "Bottom lid",
-        "value": "High"
+        "value": "Low"
       },
       {
         "trait_type": "Top lid",
-        "value": "Middle"
+        "value": "High"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Purple Eye #2",
+    "name": "Purple Eye #1",
     "description": "Staring Eye",
-    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/2.png",
-    "dna": "75e313cf2f54b7abcff09a7cab8c557510ab0c80",
-    "edition": 2,
-    "date": 1661502591638,
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/1.png",
+    "dna": "f795dbbebbe18288e2db37c0dcf21e202823d597",
+    "edition": 1,
+    "date": 1661594991094,
     "attributes": [
       {
         "trait_type": "Background",
@@ -72,18 +72,18 @@
       },
       {
         "trait_type": "Top lid",
-        "value": "Low"
+        "value": "Middle"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Purple Eye #3",
+    "name": "Purple Eye #2",
     "description": "Staring Eye",
-    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/3.png",
-    "dna": "dc5a0fac249210c035a6dccd4097fe8514a02d91",
-    "edition": 3,
-    "date": 1661502591772,
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/2.png",
+    "dna": "e82cba76e24c22e259fa515429901a890cacfd11",
+    "edition": 2,
+    "date": 1661594991212,
     "attributes": [
       {
         "trait_type": "Background",
@@ -95,7 +95,46 @@
       },
       {
         "trait_type": "Eye color",
-        "value": "Yellow"
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Purple Eye #3",
+    "description": "Staring Eye",
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/3.png",
+    "dna": "9391101cdc4c1858448b86139d3909304b540965",
+    "edition": 3,
+    "date": 1661594991335,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
       },
       {
         "trait_type": "Iris",
@@ -120,9 +159,9 @@
     "name": "Purple Eye #4",
     "description": "Staring Eye",
     "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/4.png",
-    "dna": "6df034b693ab91ac7aff321dbf6338550c582d7a",
+    "dna": "13ef1922f0203036a03e81377eabb7ffa2ec6d7a",
     "edition": 4,
-    "date": 1661502591911,
+    "date": 1661594991463,
     "attributes": [
       {
         "trait_type": "Background",
@@ -134,7 +173,7 @@
       },
       {
         "trait_type": "Eye color",
-        "value": "Yellow"
+        "value": "Red"
       },
       {
         "trait_type": "Iris",
@@ -146,46 +185,7 @@
       },
       {
         "trait_type": "Bottom lid",
-        "value": "Low"
-      },
-      {
-        "trait_type": "Top lid",
-        "value": "Low"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Purple Eye #5",
-    "description": "Staring Eye",
-    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/5.png",
-    "dna": "a85bae4a3be104d33b46d3e4ce012b3157ae3628",
-    "edition": 5,
-    "date": 1661502592074,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Black"
-      },
-      {
-        "trait_type": "Eyeball",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Eye color",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Iris",
-        "value": "Medium"
-      },
-      {
-        "trait_type": "Shine",
-        "value": "Shapes"
-      },
-      {
-        "trait_type": "Bottom lid",
-        "value": "High"
+        "value": "Middle"
       },
       {
         "trait_type": "Top lid",
@@ -195,12 +195,12 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Purple Eye #6",
+    "name": "Purple Eye #5",
     "description": "Staring Eye",
-    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/6.png",
-    "dna": "92d6f5150aead5820b188bc56464b5e1961b160b",
-    "edition": 6,
-    "date": 1661502592229,
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/5.png",
+    "dna": "82c5ae136de47a627f25569d5d128f1de076a85b",
+    "edition": 5,
+    "date": 1661594991597,
     "attributes": [
       {
         "trait_type": "Background",
@@ -224,22 +224,22 @@
       },
       {
         "trait_type": "Bottom lid",
-        "value": "Low"
+        "value": "Middle"
       },
       {
         "trait_type": "Top lid",
-        "value": "High"
+        "value": "Low"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Purple Eye #7",
+    "name": "Purple Eye #6",
     "description": "Staring Eye",
-    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/7.png",
-    "dna": "7c1dd1dbd3671217f387cc2df3c2aa6c6118b16d",
-    "edition": 7,
-    "date": 1661502592397,
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/6.png",
+    "dna": "594219bfa83c650c4811a0db3ad0c2ec03f5bdf2",
+    "edition": 6,
+    "date": 1661594991739,
     "attributes": [
       {
         "trait_type": "Background",
@@ -248,6 +248,45 @@
       {
         "trait_type": "Eyeball",
         "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Purple Eye #7",
+    "description": "Staring Eye",
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/7.png",
+    "dna": "ecb8775d308a1bc41e0f17fa348ab914a4a6c613",
+    "edition": 7,
+    "date": 1661594991874,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
       },
       {
         "trait_type": "Eye color",
@@ -263,11 +302,11 @@
       },
       {
         "trait_type": "Bottom lid",
-        "value": "Low"
+        "value": "Middle"
       },
       {
         "trait_type": "Top lid",
-        "value": "Middle"
+        "value": "Low"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -276,126 +315,9 @@
     "name": "Purple Eye #8",
     "description": "Staring Eye",
     "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/8.png",
-    "dna": "c100cb4bb0b08a900640ce891811d76f2625e75d",
+    "dna": "33f9c0add9a15304d43d16af3804204b34422565",
     "edition": 8,
-    "date": 1661502592547,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Black"
-      },
-      {
-        "trait_type": "Eyeball",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Eye color",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Iris",
-        "value": "Large"
-      },
-      {
-        "trait_type": "Shine",
-        "value": "Shapes"
-      },
-      {
-        "trait_type": "Bottom lid",
-        "value": "Middle"
-      },
-      {
-        "trait_type": "Top lid",
-        "value": "Middle"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Purple Eye #9",
-    "description": "Staring Eye",
-    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/9.png",
-    "dna": "594219bfa83c650c4811a0db3ad0c2ec03f5bdf2",
-    "edition": 9,
-    "date": 1661502592709,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Black"
-      },
-      {
-        "trait_type": "Eyeball",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Eye color",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Iris",
-        "value": "Medium"
-      },
-      {
-        "trait_type": "Shine",
-        "value": "Shapes"
-      },
-      {
-        "trait_type": "Bottom lid",
-        "value": "Low"
-      },
-      {
-        "trait_type": "Top lid",
-        "value": "Middle"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Purple Eye #10",
-    "description": "Staring Eye",
-    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/10.png",
-    "dna": "d3b85aab84a8810e2d0caf38dd1cdfc5e3ea11d8",
-    "edition": 10,
-    "date": 1661502592867,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Black"
-      },
-      {
-        "trait_type": "Eyeball",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Eye color",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Iris",
-        "value": "Medium"
-      },
-      {
-        "trait_type": "Shine",
-        "value": "Shapes"
-      },
-      {
-        "trait_type": "Bottom lid",
-        "value": "Low"
-      },
-      {
-        "trait_type": "Top lid",
-        "value": "High"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Purple Eye #11",
-    "description": "Staring Eye",
-    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/11.png",
-    "dna": "2214750725e427806ee97a1510f514475056fce7",
-    "edition": 11,
-    "date": 1661502593083,
+    "date": 1661594992013,
     "attributes": [
       {
         "trait_type": "Background",
@@ -411,7 +333,7 @@
       },
       {
         "trait_type": "Iris",
-        "value": "Large"
+        "value": "Small"
       },
       {
         "trait_type": "Shine",
@@ -419,7 +341,7 @@
       },
       {
         "trait_type": "Bottom lid",
-        "value": "Low"
+        "value": "High"
       },
       {
         "trait_type": "Top lid",
@@ -429,12 +351,12 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Purple Eye #12",
+    "name": "Purple Eye #9",
     "description": "Staring Eye",
-    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/12.png",
-    "dna": "a0c714533e4f9cc12c343effc544b411af20973b",
-    "edition": 12,
-    "date": 1661502593260,
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/9.png",
+    "dna": "a07a9dad7fa467f9841644fe96e551bec34fca68",
+    "edition": 9,
+    "date": 1661594992155,
     "attributes": [
       {
         "trait_type": "Background",
@@ -450,7 +372,7 @@
       },
       {
         "trait_type": "Iris",
-        "value": "Large"
+        "value": "Small"
       },
       {
         "trait_type": "Shine",
@@ -458,7 +380,124 @@
       },
       {
         "trait_type": "Bottom lid",
-        "value": "High"
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Purple Eye #10",
+    "description": "Staring Eye",
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/10.png",
+    "dna": "fb3e56e7b876049a499544c86accb1026a2d4324",
+    "edition": 10,
+    "date": 1661594992296,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Purple Eye #11",
+    "description": "Staring Eye",
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/11.png",
+    "dna": "f6decd3758fec287ebba5cda110e0f50afacd3d1",
+    "edition": 11,
+    "date": 1661594992432,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Purple Eye #12",
+    "description": "Staring Eye",
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/12.png",
+    "dna": "92d6f5150aead5820b188bc56464b5e1961b160b",
+    "edition": 12,
+    "date": 1661594992557,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
       },
       {
         "trait_type": "Top lid",
@@ -471,9 +510,9 @@
     "name": "Purple Eye #13",
     "description": "Staring Eye",
     "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/13.png",
-    "dna": "1a2a6750df509c6d6158a027238c05ef78f71875",
+    "dna": "f7f1ba88e7df634870bca2075870af89ff464aae",
     "edition": 13,
-    "date": 1661502593427,
+    "date": 1661594992700,
     "attributes": [
       {
         "trait_type": "Background",
@@ -485,7 +524,7 @@
       },
       {
         "trait_type": "Eye color",
-        "value": "Purple"
+        "value": "Cyan"
       },
       {
         "trait_type": "Iris",
@@ -510,9 +549,87 @@
     "name": "Purple Eye #14",
     "description": "Staring Eye",
     "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/14.png",
-    "dna": "8aac49dd74e03342d462bd9052cd5be1aeedc6a9",
+    "dna": "4d724e7f919daecbd7aebb043d5b076469e98110",
     "edition": 14,
-    "date": 1661502593582,
+    "date": 1661594992842,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Purple Eye #15",
+    "description": "Staring Eye",
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/15.png",
+    "dna": "9b7d3251dc521db194de65d5742ad21fcb52a708",
+    "edition": 15,
+    "date": 1661594992970,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Purple Eye #16",
+    "description": "Staring Eye",
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/16.png",
+    "dna": "59ed9aa1f8dba18e866485aeda070367f75a8c6f",
+    "edition": 16,
+    "date": 1661594993117,
     "attributes": [
       {
         "trait_type": "Background",
@@ -528,7 +645,7 @@
       },
       {
         "trait_type": "Iris",
-        "value": "Large"
+        "value": "Small"
       },
       {
         "trait_type": "Shine",
@@ -546,12 +663,12 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Purple Eye #15",
+    "name": "Purple Eye #17",
     "description": "Staring Eye",
-    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/15.png",
-    "dna": "ecd640d97620e4f94f4c0c577bcfe9bf649c98fe",
-    "edition": 15,
-    "date": 1661502593756,
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/17.png",
+    "dna": "7a30586659fb2b09112dea97a4b3f5b5a9fa053a",
+    "edition": 17,
+    "date": 1661594993262,
     "attributes": [
       {
         "trait_type": "Background",
@@ -579,18 +696,57 @@
       },
       {
         "trait_type": "Top lid",
-        "value": "Middle"
+        "value": "High"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Purple Eye #16",
+    "name": "Purple Eye #18",
     "description": "Staring Eye",
-    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/16.png",
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/18.png",
+    "dna": "a636d95ade44e435d6bcc3dce6760c03c05c2970",
+    "edition": 18,
+    "date": 1661594993393,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Purple Eye #19",
+    "description": "Staring Eye",
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/19.png",
     "dna": "1e7cf568fe568edc2238426a8a67cf0e7c343017",
-    "edition": 16,
-    "date": 1661502593929,
+    "edition": 19,
+    "date": 1661594993530,
     "attributes": [
       {
         "trait_type": "Background",
@@ -624,12 +780,12 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Purple Eye #17",
+    "name": "Purple Eye #20",
     "description": "Staring Eye",
-    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/17.png",
-    "dna": "01f773ac1b5a67929370a6ff1ed5cef02cf13625",
-    "edition": 17,
-    "date": 1661502594088,
+    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/20.png",
+    "dna": "a85bae4a3be104d33b46d3e4ce012b3157ae3628",
+    "edition": 20,
+    "date": 1661594993668,
     "attributes": [
       {
         "trait_type": "Background",
@@ -637,7 +793,7 @@
       },
       {
         "trait_type": "Eyeball",
-        "value": "White"
+        "value": "Red"
       },
       {
         "trait_type": "Eye color",
@@ -653,124 +809,7 @@
       },
       {
         "trait_type": "Bottom lid",
-        "value": "Low"
-      },
-      {
-        "trait_type": "Top lid",
-        "value": "Middle"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Purple Eye #18",
-    "description": "Staring Eye",
-    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/18.png",
-    "dna": "8959fc80f682f39e5d178c7c7c7acc968b9d33a3",
-    "edition": 18,
-    "date": 1661502594294,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Black"
-      },
-      {
-        "trait_type": "Eyeball",
-        "value": "White"
-      },
-      {
-        "trait_type": "Eye color",
-        "value": "Purple"
-      },
-      {
-        "trait_type": "Iris",
-        "value": "Small"
-      },
-      {
-        "trait_type": "Shine",
-        "value": "Shapes"
-      },
-      {
-        "trait_type": "Bottom lid",
-        "value": "Middle"
-      },
-      {
-        "trait_type": "Top lid",
-        "value": "Middle"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Purple Eye #19",
-    "description": "Staring Eye",
-    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/19.png",
-    "dna": "1dc0cdb3578a08d20d595d55c667c2f385d504f7",
-    "edition": 19,
-    "date": 1661502594442,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Black"
-      },
-      {
-        "trait_type": "Eyeball",
-        "value": "White"
-      },
-      {
-        "trait_type": "Eye color",
-        "value": "Purple"
-      },
-      {
-        "trait_type": "Iris",
-        "value": "Medium"
-      },
-      {
-        "trait_type": "Shine",
-        "value": "Shapes"
-      },
-      {
-        "trait_type": "Bottom lid",
-        "value": "Low"
-      },
-      {
-        "trait_type": "Top lid",
-        "value": "Middle"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Purple Eye #20",
-    "description": "Staring Eye",
-    "image": "ipfs://QmbsyXQSP5t7TyAfLWx8VWz5McFruNuhcx8MgmV9cNw2gN/20.png",
-    "dna": "41b505f4318b7f469c47f1abbba0431f7d0abc50",
-    "edition": 20,
-    "date": 1661502594597,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Black"
-      },
-      {
-        "trait_type": "Eyeball",
-        "value": "White"
-      },
-      {
-        "trait_type": "Eye color",
-        "value": "Pink"
-      },
-      {
-        "trait_type": "Iris",
-        "value": "Small"
-      },
-      {
-        "trait_type": "Shine",
-        "value": "Shapes"
-      },
-      {
-        "trait_type": "Bottom lid",
-        "value": "Middle"
+        "value": "High"
       },
       {
         "trait_type": "Top lid",

@@ -5,7 +5,7 @@ import "erc721a/contracts/ERC721A.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
 contract PurpleEye is ERC721A, Ownable {
-    uint256 MAX_MINTS = 5;
+    uint256 MAX_MINTS = 20;
     uint256 MAX_SUPPLY = 20;
     uint256 public mintRate = 0.005 ether;
 
